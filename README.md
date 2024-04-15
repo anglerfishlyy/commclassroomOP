@@ -1,10 +1,10 @@
 # commclassroomOP
 
-to Kunal Kushwaha -
+to Kunal Kushwaha -\n
 
--- learning git & github is damn good...
-***OPENSOURCE CONTRIBUTIONS***
-learning git is amazing for me......cheeeseeeee......\\|//
+-- learning git & github is damn good...\n
+***OPENSOURCE CONTRIBUTIONS*** \n
+learning git is amazing for me......cheeeseeeee......\\|// \n
 
 thanking you 
 Kunal Kushwaha 
